@@ -18,3 +18,5 @@
 
 ### My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=monsmin&theme=transparent&show_icons=true)
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=remmover&langs_count=8&layout=compact&theme=tokyonight&hide_border=false&bg_color=000000&title_color=4169E1&icon_color=800080&hide=Jupyter%20Notebook,Roff" height="192px"/></a>

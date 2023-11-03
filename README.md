@@ -1,5 +1,5 @@
 <h1 align="Left">Hi 👋, I'm Dmytro</h1>
-<h3 align="Left">Python Developer</h3>
+<h2 align="Left">Python Developer</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +15,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/monsmin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="monsmin" /></a></p><br><br>
+
+### My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=remmover&theme=transparent&show_icons=true)

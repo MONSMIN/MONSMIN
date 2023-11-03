@@ -15,15 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## my weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-Python       4 hrs 27 mins   ████████████████▓░░░░░░░░   66.72 %
-HTML         1 hr 45 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
-CSS          27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```

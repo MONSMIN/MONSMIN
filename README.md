@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dmytro</h1>
-<h3 align="center">Python Developer</h3>
+<h1 align="Left">Hi 👋, I'm Dmytro</h1>
+<h3 align="Left">Python Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/monsmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="381830953972269056" height="30" width="40" /></a>
+<a href="https://discord.gg/MONSM1N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MONSM1N" height="30" width="40" /></a>
 </p>
 
 
